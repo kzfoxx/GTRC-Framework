@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GTRC">
+    <Package name="Main">
+        <Key ID="STR_GTRC_Vehicles_Heli_light_03_Name">
+            <English>AW159 Wildcat GTRC</English>
+            <Chinesesimp>AW159"野猫"GTRC</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_Vehicles_MBT_03_Name">
+            <English>Leopard 2 GTRC</English>
+            <Chinesesimp>"豹2型GTRC版"主战坦克</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_Vehicles_Heli_Transport_02_Name">
+            <English>AW101 Merlin GTRC</English>
+            <Chinesesimp>AW101"灰背隼"GTRC</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_Vehicles_APC_Tracked_03_Name">
+            <English>FV510 Warrior GTRC</English>
+            <Chinesesimp>FV510"戰士"GTRC</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_Vehicles_Heli_Attack_02_Name">
+            <English>Mi-48 Kajman GTRC</English>
+            <Chinesesimp>Mi-48 Kajman GTRC</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_Vehicles_VTOL_02_Name">
+            <English>Y-32 Xi'an GTRC</English>
+            <Chinesesimp>Y-32 西安 GTRC</Chinesesimp>
+        </Key>
+    </Package>
+</Project>
