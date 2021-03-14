@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GTRC">
+    <Package name="Radio">
+        <Key ID="STR_GTRC_Parachute_Radio">
+            <English>Steerable Parachute (Radio)</English>
+            <Chinesesimp>可控降落伞(无线电)</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_D6_Parachute">
+            <English>D6 Parachute Bag</English>
+            <Chinesesimp>D6降落伞</Chinesesimp>
+        </Key>
+		<Key ID="STR_GTRC_D6_Parachute_Radio">
+            <English>D6 Parachute Bag (Radio)</English>
+            <Chinesesimp>D6降落伞(无线电)</Chinesesimp>
+        </Key>
+    </Package>
+</Project>

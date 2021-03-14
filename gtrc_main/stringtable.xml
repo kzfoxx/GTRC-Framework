@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GTRC">
+    <Package name="Main">
+        <Key ID="STR_GTRC_Main_FactionName">
+            <English>GTRC</English>
+            <Chinesesimp>狮鹫战术研究连</Chinesesimp>
+        </Key>
+    </Package>
+</Project>

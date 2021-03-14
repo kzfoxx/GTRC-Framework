@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GTRC">
+    <Package name="PMF">
+        <Key ID="STR_PMF_BecomeZeus">
+            <English>You are now Zeus. Press Y to open Zeus interface.</English>
+            <Chinesesimp>你已成为宙斯，按Y键打开宙斯界面</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_Teleport">
+            <English>Teleport</English>
+            <Chinesesimp>传送</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_Zeus">
+            <English>Zeus</English>
+            <Chinesesimp>宙斯</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_AllPlayers">
+            <English>All Players</English>
+            <Chinesesimp>所有玩家</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_RespawnAll">
+            <English>Respawn All Player</English>
+            <Chinesesimp>复活所有玩家</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_RespawnedPlayers">
+            <English>Players in Respawn Area</English>
+            <Chinesesimp>重生区内玩家</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_VcomDisable">
+            <English>Disable Entirely</English>
+            <Chinesesimp>关闭AI增强</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_VcomPassive">
+            <English>Passive Mode</English>
+            <Chinesesimp>防御模式</Chinesesimp>
+        </Key>
+		<Key ID="STR_PMF_VcomNormal">
+            <English>Normal Mode</English>
+            <Chinesesimp>正常模式</Chinesesimp>
+        </Key>
+    </Package>
+</Project>
